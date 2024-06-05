@@ -10,8 +10,8 @@ In this notebook, I explore various Machine Learning models to detect fraudulent
 
 # Problem Statement
 
-In this project we want to identify fraudulent transactions with Credit Cards.
-Our objective is to build a Fraud detection system for Zest Bank using Machine learning techniques.
+In this project I want to identify fraudulent transactions with Credit Cards.
+My objective is to build a Fraud detection system for Zest Bank using Machine learning techniques.
 In the past, such systems were rule-based. Machine learning offers powerful new ways.
 
 ABOUT DATASETS:
@@ -75,7 +75,7 @@ With this approach, the xgboost model is able to detect 99.999% of all fraudulen
 
 In addition, the number of false positive remains acceptable. This means a lot less verification work (on legitimate transactions) for the fraud departement compare to some other approaches which failed on this aspect. Key results are shown below:
 
-Confusion matrix of xgboost modelachieved using SMOTE over-sampling :
+Confusion matrix of xgboost model achieved using SMOTE over-sampling :
 
 ![alt text](image.png)
 
