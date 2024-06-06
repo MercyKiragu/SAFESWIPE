@@ -79,4 +79,7 @@ Confusion matrix of xgboost model achieved using SMOTE over-sampling :
 
 ![alt text](image.png)
 
+Visualization showing the most important features in the xgboost model using smote oversampling
+
+![alt text](image-4.png)
 
