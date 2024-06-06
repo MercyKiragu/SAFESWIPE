@@ -78,7 +78,7 @@ In addition, the number of false positive remains acceptable. This means a lot l
 
 Confusion matrix of xgboost model achieved using SMOTE over-sampling :
 
-![alt text](image.png)
+![alt text](image-6.png)
 
 Visualization showing the most important features in the xgboost model using smote oversampling
 
